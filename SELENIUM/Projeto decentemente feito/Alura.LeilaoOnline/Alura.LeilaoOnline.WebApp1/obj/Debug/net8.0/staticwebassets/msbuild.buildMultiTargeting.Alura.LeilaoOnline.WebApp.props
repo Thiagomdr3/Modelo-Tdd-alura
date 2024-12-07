@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Alura.LeilaoOnline.WebApp.props" />
+</Project>

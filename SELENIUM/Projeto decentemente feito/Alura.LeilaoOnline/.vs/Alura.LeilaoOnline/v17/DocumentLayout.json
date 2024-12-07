@@ -1,0 +1,607 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.dados\\migrations\\20240627170636_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|solutionrelative:alura.leilaoonline.dados\\migrations\\20240627170636_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9522C8E-2FF0-479B-B7B0-8D5D09970302}|Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.core\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9522C8E-2FF0-479B-B7B0-8D5D09970302}|Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj|solutionrelative:alura.leilaoonline.core\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.dados\\leiloescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|solutionrelative:alura.leilaoonline.dados\\leiloescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9522C8E-2FF0-479B-B7B0-8D5D09970302}|Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.core\\lance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9522C8E-2FF0-479B-B7B0-8D5D09970302}|Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj|solutionrelative:alura.leilaoonline.core\\lance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.dados\\repositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|solutionrelative:alura.leilaoonline.dados\\repositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.dados\\usuarioefconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|solutionrelative:alura.leilaoonline.dados\\usuarioefconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.webapp1\\controllers\\interessadascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|solutionrelative:alura.leilaoonline.webapp1\\controllers\\interessadascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.webapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|solutionrelative:alura.leilaoonline.webapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.dados\\favoritoefconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|solutionrelative:alura.leilaoonline.dados\\favoritoefconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.dados\\lanceefconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|solutionrelative:alura.leilaoonline.dados\\lanceefconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9522C8E-2FF0-479B-B7B0-8D5D09970302}|Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.core\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9522C8E-2FF0-479B-B7B0-8D5D09970302}|Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj|solutionrelative:alura.leilaoonline.core\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.dados\\leilaoefconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|solutionrelative:alura.leilaoonline.dados\\leilaoefconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.dados\\interessadaefconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|solutionrelative:alura.leilaoonline.dados\\interessadaefconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.webapp1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|solutionrelative:alura.leilaoonline.webapp1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.webapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|solutionrelative:alura.leilaoonline.webapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.dados\\repositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|solutionrelative:alura.leilaoonline.dados\\repositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.webapp1\\controllers\\leiloescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|solutionrelative:alura.leilaoonline.webapp1\\controllers\\leiloescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.dados\\alura.leilaoonline.dados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|solutionrelative:alura.leilaoonline.dados\\alura.leilaoonline.dados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1037B0BA-97CB-49D9-AD2F-64EDCED8F668}|Alura.LeilaoOnline.Tests\\Alura.LeilaoOnline.Tests.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.tests\\lancector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1037B0BA-97CB-49D9-AD2F-64EDCED8F668}|Alura.LeilaoOnline.Tests\\Alura.LeilaoOnline.Tests.csproj|solutionrelative:alura.leilaoonline.tests\\lancector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.webapp1\\views\\shared\\displaytemplates\\leilaoantesdopregao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|solutionrelative:alura.leilaoonline.webapp1\\views\\shared\\displaytemplates\\leilaoantesdopregao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.webapp1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|solutionrelative:alura.leilaoonline.webapp1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.webapp1\\views\\shared\\displaytemplates\\leilaoemandamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|solutionrelative:alura.leilaoonline.webapp1\\views\\shared\\displaytemplates\\leilaoemandamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.webapp1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|solutionrelative:alura.leilaoonline.webapp1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.webapp1\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|solutionrelative:alura.leilaoonline.webapp1\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.webapp1\\extensions\\leilaoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|solutionrelative:alura.leilaoonline.webapp1\\extensions\\leilaoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.webapp1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|solutionrelative:alura.leilaoonline.webapp1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.dados\\repositorioleilao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|solutionrelative:alura.leilaoonline.dados\\repositorioleilao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.dados\\repositoriointeressada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|solutionrelative:alura.leilaoonline.dados\\repositoriointeressada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.dados\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74EEC47-A3CC-484E-9D30-2D8CCD40A276}|Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj|solutionrelative:alura.leilaoonline.dados\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|c:\\users\\thiago.cordeiro\\desktop\\tdd\\selenium\\projeto decentemente feito\\alura.leilaoonline\\alura.leilaoonline.webapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FA97091-78EA-4AB3-90C3-D435B1D10ACD}|Alura.LeilaoOnline.WebApp1\\Alura.LeilaoOnline.WebApp.csproj|solutionrelative:alura.leilaoonline.webapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 594,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeiloesController.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Controllers\\LeiloesController.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.WebApp1\\Controllers\\LeiloesController.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Controllers\\LeiloesController.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.WebApp1\\Controllers\\LeiloesController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:31:52.39Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.WebApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Program.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.WebApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:36:54.403Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Startup.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.WebApp1\\Startup.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Startup.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.WebApp1\\Startup.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCEAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:35:50.108Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeiloesContext.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\LeiloesContext.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Dados\\LeiloesContext.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\LeiloesContext.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Dados\\LeiloesContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwCgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:33:58.973Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Favorito.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Favorito.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Core\\Favorito.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Favorito.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Core\\Favorito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:45:10.805Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioEFConfig.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\UsuarioEFConfig.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Dados\\UsuarioEFConfig.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\UsuarioEFConfig.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Dados\\UsuarioEFConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:36:03.667Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InteressadaEFConfig.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\InteressadaEFConfig.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Dados\\InteressadaEFConfig.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\InteressadaEFConfig.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Dados\\InteressadaEFConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:13:14.152Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240627170636_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\Migrations\\20240627170636_Inicial.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Dados\\Migrations\\20240627170636_Inicial.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\Migrations\\20240627170636_Inicial.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Dados\\Migrations\\20240627170636_Inicial.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAQwJ4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:06:36.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.WebApp1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.WebApp1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:01:28.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InteressadasController.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Controllers\\InteressadasController.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.WebApp1\\Controllers\\InteressadasController.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Controllers\\InteressadasController.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.WebApp1\\Controllers\\InteressadasController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAD8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:01:18.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lance.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Lance.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Core\\Lance.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Lance.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Core\\Lance.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:58:06.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Usuario.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Core\\Usuario.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Usuario.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Core\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:54:52.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Alura.LeilaoOnline.Dados.csproj",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj",
+              "RelativeToolTip": "Alura.LeilaoOnline.Dados\\Alura.LeilaoOnline.Dados.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-27T15:50:17.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LanceCtor.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Tests\\LanceCtor.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Tests\\LanceCtor.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Tests\\LanceCtor.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Tests\\LanceCtor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:46:30.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LeilaoAntesDoPregao.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Views\\Shared\\DisplayTemplates\\LeilaoAntesDoPregao.cshtml",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.WebApp1\\Views\\Shared\\DisplayTemplates\\LeilaoAntesDoPregao.cshtml",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Views\\Shared\\DisplayTemplates\\LeilaoAntesDoPregao.cshtml",
+              "RelativeToolTip": "Alura.LeilaoOnline.WebApp1\\Views\\Shared\\DisplayTemplates\\LeilaoAntesDoPregao.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T15:39:20.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LeilaoEmAndamento.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Views\\Shared\\DisplayTemplates\\LeilaoEmAndamento.cshtml",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.WebApp1\\Views\\Shared\\DisplayTemplates\\LeilaoEmAndamento.cshtml",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Views\\Shared\\DisplayTemplates\\LeilaoEmAndamento.cshtml",
+              "RelativeToolTip": "Alura.LeilaoOnline.WebApp1\\Views\\Shared\\DisplayTemplates\\LeilaoEmAndamento.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T15:39:13.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.WebApp1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Alura.LeilaoOnline.WebApp1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T15:38:04.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.WebApp1\\Extensions\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.WebApp1\\Extensions\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:37:21.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.WebApp1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Alura.LeilaoOnline.WebApp1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T15:37:16.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LeilaoExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Extensions\\LeilaoExtensions.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.WebApp1\\Extensions\\LeilaoExtensions.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Extensions\\LeilaoExtensions.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.WebApp1\\Extensions\\LeilaoExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:35:39.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.WebApp1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Alura.LeilaoOnline.WebApp1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T15:29:08.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.WebApp1\\appsettings.json",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp1\\appsettings.json",
+              "RelativeToolTip": "Alura.LeilaoOnline.WebApp1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T15:27:19.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositorioUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\RepositorioUsuario.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Dados\\RepositorioUsuario.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\RepositorioUsuario.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Dados\\RepositorioUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:35:44.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RepositorioLeilao.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\RepositorioLeilao.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Dados\\RepositorioLeilao.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\RepositorioLeilao.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Dados\\RepositorioLeilao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:35:25.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RepositorioInteressada.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\RepositorioInteressada.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Dados\\RepositorioInteressada.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\RepositorioInteressada.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Dados\\RepositorioInteressada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:35:02.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RepositorioBase.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\RepositorioBase.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Dados\\RepositorioBase.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\RepositorioBase.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Dados\\RepositorioBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:34:39.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LeilaoEFConfig.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\LeilaoEFConfig.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Dados\\LeilaoEFConfig.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\LeilaoEFConfig.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Dados\\LeilaoEFConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:33:32.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LanceEFConfig.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\LanceEFConfig.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Dados\\LanceEFConfig.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\LanceEFConfig.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Dados\\LanceEFConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:14:12.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Dados\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\IRepositorio.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Dados\\IRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:13:49.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FavoritoEFConfig.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\FavoritoEFConfig.cs",
+              "RelativeDocumentMoniker": "Alura.LeilaoOnline.Dados\\FavoritoEFConfig.cs",
+              "ToolTip": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Dados\\FavoritoEFConfig.cs",
+              "RelativeToolTip": "Alura.LeilaoOnline.Dados\\FavoritoEFConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:11:45.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 177,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

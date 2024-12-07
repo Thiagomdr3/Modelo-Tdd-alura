@@ -1,0 +1,17 @@
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\bin\Debug\net8.0\Alura.LeilaoOnline.Dados.deps.json
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\bin\Debug\net8.0\Alura.LeilaoOnline.Dados.runtimeconfig.json
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\bin\Debug\net8.0\Alura.LeilaoOnline.Dados.dll
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\bin\Debug\net8.0\Alura.LeilaoOnline.Dados.pdb
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\bin\Debug\net8.0\Alura.LeilaoOnline.Core.dll
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\bin\Debug\net8.0\Alura.LeilaoOnline.Core.pdb
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\obj\Debug\net8.0\Alura.LeilaoOnline.Dados.csproj.AssemblyReference.cache
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\obj\Debug\net8.0\Alura.LeilaoOnline.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\obj\Debug\net8.0\Alura.LeilaoOnline.Dados.AssemblyInfoInputs.cache
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\obj\Debug\net8.0\Alura.LeilaoOnline.Dados.AssemblyInfo.cs
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\obj\Debug\net8.0\Alura.LeilaoOnline.Dados.csproj.CoreCompileInputs.cache
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\obj\Debug\net8.0\Alura.Le.C1348A5D.Up2Date
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\obj\Debug\net8.0\Alura.LeilaoOnline.Dados.dll
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\obj\Debug\net8.0\refint\Alura.LeilaoOnline.Dados.dll
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\obj\Debug\net8.0\Alura.LeilaoOnline.Dados.pdb
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\obj\Debug\net8.0\Alura.LeilaoOnline.Dados.genruntimeconfig.cache
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Dados\obj\Debug\net8.0\ref\Alura.LeilaoOnline.Dados.dll

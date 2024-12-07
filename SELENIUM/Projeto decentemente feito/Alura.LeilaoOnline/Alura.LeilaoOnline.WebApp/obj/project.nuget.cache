@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zOZfFg00fPo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiago.cordeiro\\Desktop\\Tdd\\SELENIUM\\Projeto decentemente feito\\Alura.LeilaoOnline\\Alura.LeilaoOnline.WebApp\\Alura.LeilaoOnline.WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiago.cordeiro\\.nuget\\packages\\humanizer.core\\3.0.0-beta.54\\humanizer.core.3.0.0-beta.54.nupkg.sha512",
+    "C:\\Users\\thiago.cordeiro\\.nuget\\packages\\humanizer.core.pt\\3.0.0-beta.54\\humanizer.core.pt.3.0.0-beta.54.nupkg.sha512",
+    "C:\\Users\\thiago.cordeiro\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\thiago.cordeiro\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

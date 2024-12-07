@@ -1,0 +1,11 @@
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\net8.0\Alura.LeilaoOnline.Core.deps.json
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\net8.0\Alura.LeilaoOnline.Core.dll
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\net8.0\Alura.LeilaoOnline.Core.pdb
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net8.0\Alura.LeilaoOnline.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net8.0\Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net8.0\Alura.LeilaoOnline.Core.AssemblyInfo.cs
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net8.0\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net8.0\Alura.LeilaoOnline.Core.dll
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net8.0\refint\Alura.LeilaoOnline.Core.dll
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net8.0\Alura.LeilaoOnline.Core.pdb
+C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\net8.0\ref\Alura.LeilaoOnline.Core.dll

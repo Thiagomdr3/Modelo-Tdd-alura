@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Alura.LeilaoOnline.WebApp
+build_property.RootNamespace = Alura.LeilaoOnline.WebApp
+build_property.ProjectDir = C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.WebApp1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\thiago.cordeiro\Desktop\Tdd\SELENIUM\Projeto decentemente feito\Alura.LeilaoOnline\Alura.LeilaoOnline.WebApp1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Autenticacao/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0ZW50aWNhY2FvXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Home/Detalhes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhbGhlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Interessadas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW50ZXJlc3NhZGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Leiloes/Categoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVpbG9lc1xDYXRlZ29yaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Leiloes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVpbG9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Leiloes/Novo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVpbG9lc1xOb3ZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Shared/DisplayTemplates/LeilaoAntesDoPregao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERpc3BsYXlUZW1wbGF0ZXNcTGVpbGFvQW50ZXNEb1ByZWdhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Shared/DisplayTemplates/LeilaoEmAndamento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERpc3BsYXlUZW1wbGF0ZXNcTGVpbGFvRW1BbmRhbWVudG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Shared/DisplayTemplates/LeilaoFinalizado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERpc3BsYXlUZW1wbGF0ZXNcTGVpbGFvRmluYWxpemFkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Shared/_Cabecalho.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYWJlY2FsaG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Shared/_ModalLance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Nb2RhbExhbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Shared/_Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZWdpc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Shared/_Rodape.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Sb2RhcGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/Usuarios/Agradecimento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQWdyYWRlY2ltZW50by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiago.cordeiro/Desktop/Tdd/SELENIUM/Projeto decentemente feito/Alura.LeilaoOnline/Alura.LeilaoOnline.WebApp1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
